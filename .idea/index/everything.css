@@ -1,5 +1,5 @@
 body {
-    background-color: #191919
+    background-color: #202020
 }
 .aboutText {
     text-align: left;
@@ -67,7 +67,7 @@ body {
     margin-left: -0.3rem;
 }
 .skills p a {
-    color: #08fdd8;;
+    color: #08fdd8;
 }
 .bigKoule{
     margin-left: 60rem;
@@ -116,4 +116,24 @@ body {
 
 #formLine {
     display: flex;
+    margin: 0.5rem;
 }
+#formLine input {
+    background-color: #2b2b2b;
+}
+.subject {
+    width: 22rem;
+    margin: 0.5rem;
+    background-color: #2b2b2b;
+}
+.input {
+    width: 22rem;
+    height: 8rem;
+    margin: 0.5rem;
+    background-color: #2b2b2b;
+}
+iframe{
+    margin-left: 70rem;
+    margin-top: -27rem;
+}
+body { overflow-y: hidden; overflow-x: hidden;}
