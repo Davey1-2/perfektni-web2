@@ -1,0 +1,42 @@
+.navbar {
+    color: white;
+    height: 100%;
+    width: 4rem;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #101010;
+    overflow-x: hidden;
+    padding-top: 15rem;
+    display: block;
+
+}
+.navbar a {
+    margin-top: 3rem;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+.navbar ul {
+    padding-left: 0;
+}
+.nav1 {
+    margin-bottom: 15rem;
+}
+.socMed a {
+    margin: 0;
+    text-align: center;
+}
+.socMed {
+    padding-bottom: 0;
+    padding-top: 18rem;
+}
+
+
+
+
+

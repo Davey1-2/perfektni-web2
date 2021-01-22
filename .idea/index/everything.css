@@ -1,0 +1,119 @@
+body {
+    background-color: #191919
+}
+.aboutText {
+    text-align: left;
+    color: white;
+    margin-top: 15rem;
+    margin-left: 12rem;
+}
+.aboutText h1 {
+    font-size: 400%;
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 4rem;
+    font-family: "Open Sans", sans-serif;
+    color: #08fdd8;
+    font-weight: bold;
+    margin-top: 0;
+    position: relative;
+    margin-bottom: 2,5rem;
+    left: -1rem;
+}
+.aboutText p {
+    font-size: 108%;
+    color: #ffffff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    margin-top: 1.2rem;
+    margin-left: -0.3rem;
+}
+.timeline {
+    margin-left: 12rem;
+    margin-top: 2rem;
+}
+.video {
+    margin-left: 60rem;
+    margin-top: -25rem;
+
+}
+.circles {
+    width: 50rem;
+}
+
+.skills {
+    text-align: left;
+    color: white;
+    margin-top: 20rem;
+    margin-left: 12rem;
+}
+.skills h1 {
+    font-size: 400%;
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 4rem;
+    font-family: "Open Sans", sans-serif;
+    color: #08fdd8;
+    font-weight: bold;
+    margin-top: 0;
+    position: relative;
+    margin-bottom: 2,5rem;
+    left: -1rem;
+}
+.skills p {
+    font-size: 108%;
+    color: #ffffff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    margin-top: 1.2rem;
+    margin-left: -0.3rem;
+}
+.skills p a {
+    color: #08fdd8;;
+}
+.bigKoule{
+    margin-left: 60rem;
+    margin-top: -30rem;
+    width: 40rem;
+}
+.nic {
+   text-align: center;
+    margin-top: 27rem;
+    color: #08fdd8;
+    font-family: "Trebuchet MS", sans-serif;
+    font-weight: bold;
+}
+.contact{
+    text-align: left;
+    color: white;
+    margin-top: 12rem;
+    margin-left: 12rem;
+}
+
+.contact h1 {
+    font-size: 400%;
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 4rem;
+    font-family: "Open Sans", sans-serif;
+    color: #08fdd8;
+    font-weight: bold;
+    margin-top: 0;
+    position: relative;
+    margin-bottom: 2,5rem;
+    left: -1rem;
+}
+.contact p {
+    font-size: 108%;
+    color: #ffffff;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    margin-top: 1.2rem;
+    margin-left: -0.3rem;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+#formLine {
+    display: flex;
+}
