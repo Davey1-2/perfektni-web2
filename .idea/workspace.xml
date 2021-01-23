@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="534bfadd-359b-4740-a603-64a2a8559e20" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/index/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,17 +38,6 @@
     <property name="settings.editor.selected.configurable" value="CodeWithMe" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="contact.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/perfektni web/.idea/index/contact.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -77,6 +67,8 @@
       <workItem from="1611303167430" duration="16563000" />
       <workItem from="1611324988467" duration="475000" />
       <workItem from="1611325484203" duration="5517000" />
+      <workItem from="1611334791124" duration="657000" />
+      <workItem from="1611402925979" duration="654000" />
     </task>
     <servers />
   </component>
